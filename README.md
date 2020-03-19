@@ -33,7 +33,7 @@ map.IndexOfValue("boo").ShouldBe(2);                    // -> map.IndexOfValue("
 ```
 **Shouldly** uses the code before the *ShouldBe* statement to report on errors, which makes diagnosing easier.
 
-Read more about Shouldly and its features at [http://docs.shouldly-lib.net/](http://docs.shouldly-lib.net/).
+Read more about Shouldly and its features at [https://shouldly.readthedocs.io/en/latest/](https://shouldly.readthedocs.io/en/latest/).
 
 ## Installation
 
